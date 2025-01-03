@@ -1,3 +1,11 @@
+i have scrape .ai and domain with 'ai' in title  as a list
+
+https://github.com/sergiuchiriac/ai-directories
+
+
+combine 2 url list into 1, and monitor sitemap each ,found new url ,add to my site
+
+
 # Gavarnie
 
 Preconfigured and ready-to-use features designed to help you kickstart your full-stack NuxtHub project **quickly**.
